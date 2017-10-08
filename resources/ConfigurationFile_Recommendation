@@ -1,0 +1,9 @@
+1.DBpath=E:\\GraphDB
+1.productDetailsFile=E:\\ACC\\Recommendation_POC\\Products.csv
+1.userDetailsFile=E:\\ACC\\Recommendation_POC\\User_Details.csv
+1.relationDetailsFile=E:\\ACC\\Recommendation_POC\\Relation.csv
+2.noOfProducts=5
+2.noOfTxns=5
+2.minSup=60
+2.dic.step.size=5
+2.algorithm=APRIORI
